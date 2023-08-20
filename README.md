@@ -1,1 +1,2 @@
-# Image_Captioner
+# Text summarizer using transformers model
+ A Dl project
