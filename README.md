@@ -4,12 +4,12 @@ The Aim of the project is to predict the captions for the image. The dataset con
 using : Colab
 
 Libraries:
-numpy
-matplotlib
-keras
-tensorflow
+numpy,
+matplotlib,
+keras,
+tensorflow,
 nltk
 
 Neural Network:
-VGG16 Network
+VGG16 Network,
 CNN-LSTM Network
