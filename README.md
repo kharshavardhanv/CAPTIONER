@@ -8,7 +8,7 @@ numpy,
 matplotlib,
 keras,
 tensorflow,
-nltk
+nltk(natural lang toolkit)
 
 Neural Network:
 VGG16 Network,
