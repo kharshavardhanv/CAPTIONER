@@ -1,0 +1,17 @@
+-connect kaggle to colab using operations done in colab
+-import modules
+-set up base & working directory
+-load vgg16 model
+-extract features from image
+-store it in features.pkl file
+-to resuse it agin; when u are again using colab just load pickle file instead of feature extraction agin
+
+
+
+
+Load trained model:
+
+#iterate through this while loading saved model else go through above process
+
+from tensorflow.keras.models import load_model
+model=load_model("best_model.h5")
