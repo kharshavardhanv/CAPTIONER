@@ -14,3 +14,10 @@ nltk(natural lang toolkit)
 Neural Network:
 VGG16 Network,
 CNN-LSTM Network
+
+
+
+
+
+
+References: https://www.hackersrealm.net/post/image-caption-generator-using-python
